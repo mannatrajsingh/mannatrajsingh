@@ -1,7 +1,6 @@
 # Hey! I'm Mannat Raj Singh
 
-Welcome to my GitHub profile!
-I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, working across **Machine Learning, LLMs, and Systems Programming**. I like building things that are measured honestly — leakage-free evaluation, baselines that actually prove a model adds value, and low-level code that respects how the machine really works.
+I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, working across **Machine Learning, LLMs, and Systems Programming**. I like building things that are measured honestly - leakage-free evaluation, baselines that actually prove a model adds value, and low-level code that respects how the machine really works.
 
 ---
 
