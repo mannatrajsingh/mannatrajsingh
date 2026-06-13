@@ -137,16 +137,3 @@ I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, working ac
 - Core Member @ Cyfuse · PR Team @ ESYA
 - Vidyanjali community teaching volunteer (85 hours)
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mannatrajsingh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-
-📧 mannat24333@iiitd.ac.in
-
----
-
-*"Measuring honestly beats claiming loudly."*
