@@ -49,3 +49,12 @@ I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, building a
 <div align="center">
 <sub>📍 New Delhi · 📧 mannat24333@iiitd.ac.in · <a href="https://linkedin.com/in/mannat-raj-singh-a49a163b6">LinkedIn</a></sub>
 </div>
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mannat-raj-singh-a49a163b6)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mannatrajsingh)
+
+📧 [mannat24333@iiitd.ac.in](mailto:mannat24333@iiitd.ac.in)
