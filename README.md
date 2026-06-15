@@ -1,4 +1,4 @@
-# Hey! I'm Mannat Raj Singh
+# ![banner](./banner.svg)
 
 I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, building across **Systems & Networking**, **Machine Learning**, and **Software Engineering**. I like low-level code that respects how the machine works, and ML pipelines measured against baselines that actually prove value.
 
