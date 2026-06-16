@@ -57,4 +57,4 @@ I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, building a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mannat-raj-singh-a49a163b6)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mannatrajsingh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mannat24333@iiitd.ac.in)
-📧 [mannat24333@iiitd.ac.in](mailto:mannat24333@iiitd.ac.in)
+
