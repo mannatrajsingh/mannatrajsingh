@@ -1,4 +1,4 @@
-# ![banner](./ocean.gif)
+![banner](./ocean.gif)
 
 I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, building across **Systems & Networking**, **Machine Learning**, and **Software Engineering**. I like low-level code that respects how the machine works, and ML pipelines measured against baselines that actually prove value.
 
@@ -23,6 +23,7 @@ I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, building a
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
