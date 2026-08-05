@@ -63,11 +63,11 @@ I'm a Computer Science & Social Sciences undergrad at **IIIT-Delhi**, building a
 
 
 
-### 📊 GitHub Stats
+ <!--!### 📊 GitHub Stats
 
 
- <!--! <img src="https://github-readme-stats.vercel.app/api?username=mannatrajsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9ec4ff&icon_color=c8b4ff&text_color=ffffff" width="48%"/>-->
-  <img src="https://streak-stats.demolab.com?user=mannatrajsingh&theme=tokyonight&hide_border=true&background=0d1117&ring=9ec4ff&fire=c8b4ff&currStreakLabel=9ec4ff" width="48%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=mannatrajsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9ec4ff&icon_color=c8b4ff&text_color=ffffff" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=mannatrajsingh&theme=tokyonight&hide_border=true&background=0d1117&ring=9ec4ff&fire=c8b4ff&currStreakLabel=9ec4ff" width="48%"/>-->
 
 
 
